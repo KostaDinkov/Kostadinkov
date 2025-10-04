@@ -86,6 +86,7 @@ Implementation of Traveling Salesman Problem (TSP) solution for optimization cou
 - 🏅 **Meta Frontend Developer** - Coursera Specialization
 - 🏅 **React Nanodegree** - Udacity
 - 🏅 **Nand to Tetris** - Coursera
+- full list available at my linkedin profile
 
 ## 📫 Let's Connect
 
