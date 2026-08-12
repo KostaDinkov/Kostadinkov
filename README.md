@@ -73,7 +73,7 @@ Mobile Android application for tourism and paragliding enthusiasts in Bulgaria, 
 
 ## 📚 Education & Certifications
 
-- 🎓 **Computer Science** - Unibit University
+- 🎓 **B.Sc. in Computer Science** - Unibit University
 - 🏅 **Meta Frontend Developer** - Coursera Specialization
 - 🏅 **React Nanodegree** - Udacity
 - 🏅 **Nand to Tetris** - Coursera
