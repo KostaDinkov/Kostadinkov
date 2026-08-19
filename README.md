@@ -7,7 +7,9 @@ Full-Stack Software Engineer (.NET / React) | AI-Augmented, Verification-First D
 I've been writing code since I was 12 — BASIC, then Pascal, then a long list of things since. For the past three years I've owned a production ERP system end to end — architecture, backend, frontend, and now AI agents — used daily by a 15-person team. That's shaped how I think about AI-assisted development: speed from AI tooling is easy to get, trust in what it produces has to be earned deliberately. Mutation testing, property-based testing, and an independent AI code-review step — fresh context, no implementation history — are standard parts of how I ship, not afterthoughts.
 
 💼 Full-stack: C#/.NET, React/TypeScript, SQL Server
+
 🤖 Currently refining a spec-driven, AI-augmented workflow — switching deliberately between Claude Code, GitHub Copilot, and Codex, since the field hasn't settled on one right way to do this yet
+
 🌱 Background also spans Python/RAG systems, native Android, and game-engine scripting — see below
 
 ## 🛠️ Skills & Technologies
